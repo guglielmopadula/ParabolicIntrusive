@@ -1,5 +1,6 @@
 Tests on a linear parabolic equation
-$$u_{t}+\nabla u=\mu sin(2\pi*x)*sin(2\pi*y)$
+$$u_{t}+\nabla u=\mu sin(2\pi*x)*sin(2\pi*y)$$
+with boundary and initial conditions equal to 0 everywhere. Inspired from [this](https://github.com/RBniCS/RBniCS/tree/master/tutorials/06_thermal_block_unsteady).
 
 |Method                                     |Train error|Test Error|Time   |
 |-------------------------------------------|-----------|----------|-------|
